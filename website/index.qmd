@@ -1,0 +1,28 @@
+---
+title: Analysis of Climate and Drought Adaptation for Southeastern Utah Group National Parks
+
+format:
+  html:
+    code-fold: true
+    page-layout: full
+    theme: litera
+    toc: true
+    embed-resources: true
+jupyter: python3
+---
+
+# Introduction
+![Source: https://www.nps.gov/articles/000/national-parks-in-southern-utah.htm](./imgs/1.jpg)
+
+
+
+# Questions
+
+
+# Data Cleaning
+
+
+# Visualization
+
+
+# Conclusion
